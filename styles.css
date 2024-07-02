@@ -1,3 +1,15 @@
-img{
-    
+body{
+  
+}
+
+p{
+font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-item{
+    padding-right: 60px;
+    font-size: larger;
+    font-weight: 500;
 }
