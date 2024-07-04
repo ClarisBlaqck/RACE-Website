@@ -1,15 +1,46 @@
-body{
-  
+body, html{
+  height: 100%;
+}
+h1{
+  color: #663399;
+  padding-top: 10px;
+  padding-left: 70px;
+}
+
+a{
+  color: white;
 }
 
 p{
 font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
+  line-height: 2.5;
+}
+
+.intro-image {
+  height: 100%;
+  background-image: url(images/testubes.PNG);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .nav-item{
-    padding-right: 60px;
-    font-size: larger;
-    font-weight: 500;
+  padding-right: 30px;
+  font-size: large;
+  font-weight: 500;
 }
+
+.navbar-brand img{
+  width: 8%;
+  height: 8%;
+}
+
+.caption{
+  margin-top: 20px;
+  padding: 10px;
+  background-color: aqua;
+}
+
+
