@@ -2,7 +2,7 @@ body, html{
   height: 100%;
 }
 h1{
-  color: #663399;
+  color: #e8e3e4;
   padding-top: 10px;
   padding-left: 70px;
   font-family: "Ga Maamli", sans-serif;
@@ -16,17 +16,18 @@ a{
 
 p{
 font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   font-style: normal;
   line-height: 2.5;
 }
 
 .intro-image {
   height: 100%;
-  background-image: url(images/testubes.PNG);
+  background-image: url(images/Capture.PNG);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  
 }
 
 .nav-item{
@@ -40,10 +41,9 @@ font-family: "Poppins", sans-serif;
   height: 8%;
 }
 
-.caption{
-  margin-top: 20px;
-  padding: 10px;
-  background-color: aqua;
+.photo {
+  object-fit: cover;
+  width: 100%;
 }
 
 
