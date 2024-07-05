@@ -30,10 +30,10 @@ font-family: "Poppins", sans-serif;
   
 }
 
-.nav-item{
+.nav-item, .navbar-brand{
   padding-right: 30px;
   font-size: large;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .navbar-brand img{
