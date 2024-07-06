@@ -59,4 +59,8 @@ font-family: "Poppins", sans-serif;
   background-repeat: no-repeat;
   background-size: contain;
   }
+
+  h1{
+    color: #ff0000;
+  }
 }
